@@ -35,6 +35,15 @@ section>h3 {
     font-weight: bold;
     background-color: #8ba5e0;
 }
+section.jjk>h3{
+    background-color: #8ba5e0;
+}
+section.dn>h3{
+    background-color: lightblue;
+}
+section.aot>h3{
+    backgroung-color:cadetblue;
+}
 
 .row{
     width: 100%;
